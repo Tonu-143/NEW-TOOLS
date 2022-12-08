@@ -49,7 +49,7 @@ def ALEX():
         os.system('https://www.facebook.com/profile.php?id=100000812025846&mibextid=ZbWKwL')
         return None
     if None == '3':
-        os.system('https://www.facebook.com/groups/672751520627850/?ref=share)
+        os.system('https://www.facebook.com/groups/672751520627850/?ref=share')
         return None
     if None == '4':
         os.system('https://youtube.com/@bd-termux5947)
